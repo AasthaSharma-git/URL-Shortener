@@ -200,11 +200,7 @@ The complete process is:
 9. Open `http://127.0.0.1:8000/docs`.
 10. Use the Swagger UI to test the `/shorten` and `/{short_code}` endpoints.
 
-## Security Note
 
-The `.env` file contains database credentials and should not be included when sharing the project.
-
-The provided `.env.example` file can be used as a template for creating the `.env` file.
 
 
 
